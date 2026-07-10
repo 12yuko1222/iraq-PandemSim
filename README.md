@@ -1,6 +1,6 @@
-# 🏥 Iraq EpiSim: Interactive Epidemic Intelligence System 🇮🇶
+# 🏥 Iraq PandemSim: Interactive Epidemic Intelligence System 🇮🇶
 
-**Iraq EpiSim** is an integrated medical and epidemiological simulation system that bridges advanced statistical computing with interactive data visualization. The project leverages the statistical power of **R** and the flexible dashboard capabilities of **Python** to simulate and analyze disease spread across Iraq.
+**Iraq PandemSim** is an integrated medical and epidemiological simulation system that bridges advanced statistical computing with interactive data visualization. The project leverages the statistical power of **R** and the flexible dashboard capabilities of **Python** to simulate and analyze disease spread across Iraq.
 
 ---
 
